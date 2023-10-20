@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Bike-Share-Case-Stuy
+# Google-Data-Analytics-Bike-Share-Case-Study
 ## Introduction 
 Google Data Analytics Capstone Project.
 
